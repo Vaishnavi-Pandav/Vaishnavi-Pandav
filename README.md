@@ -10,16 +10,39 @@
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- Status Badges -->
+![BTech CSE](https://img.shields.io/badge/B.Tech-CSE-00b4d8?style=for-the-badge)
+![College](https://img.shields.io/badge/College-YCCE_Nagpur-0077b6?style=for-the-badge)
+![Batch](https://img.shields.io/badge/Batch-2025--2028-00b4d8?style=for-the-badge)
+![Diploma](https://img.shields.io/badge/Diploma-91.65%25-0077b6?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/📍_Location-Nagpur,_Maharashtra,_India-00b4d8?style=for-the-badge)
+
+<br/>
+
+<!-- Action Buttons -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-pandav-45812b31b)
+[![Gmail](https://img.shields.io/badge/Email-Reach_Out-00b4d8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavipanda995@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi--Pandav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi-Pandav)
+[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-00b4d8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
+
+<br/>
+
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Pandav&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-pandav-45812b31b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavipanda995@gmail.com)
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 👋 About Me
+
+Hey, I'm **Vaishnavi** 👋 — a Full Stack Developer and 2nd-year B.Tech CSE student at **YCCE, Nagpur**, with a Diploma in Computer Engineering (91.65%) backing me up. I love turning ideas into working products, from AI-powered travel planners to real-time weather apps, and I'm just as happy deep in a DSA problem as I am wiring up a new Angular component or a Docker pipeline. Currently leveling up my **DSA, Angular, and DevOps** skills while staying active in open source and clean-code practices. Always building, always learning — let's connect! 🚀
+
+<!--
+  TODO (Vaishnavi): Feel free to tweak the paragraph above to sound more like you,
+  or send me an updated version and I'll swap it in.
+-->
 
 ```typescript
 const vaishnavi = {
@@ -84,39 +107,49 @@ const vaishnavi = {
 
 ## 🎓 Education
 
-<div align="center">
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science_&_Engineering-00b4d8?style=for-the-badge)
+![Institute](https://img.shields.io/badge/Institute-YCCE_Nagpur-0077b6?style=for-the-badge)
+![Year](https://img.shields.io/badge/Year-2nd_Year_•_2025--2028-00b4d8?style=for-the-badge)
 
-| | Qualification | Institute | Score / Year |
-|:---:|:---|:---|:---:|
-| 🏛️ | **B.Tech. Computer Science & Engineering** | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | 2nd Year • 2025–2028 |
-| 🎖️ | **Diploma in Computer Engineering** | — | **91.65%** |
-
-</div>
+![Diploma](https://img.shields.io/badge/Diploma-Computer_Engineering-0077b6?style=for-the-badge)
+![Score](https://img.shields.io/badge/Score-91.65%25-00b4d8?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<details>
+<summary>🔹 <strong>Tripwise-AI</strong> — AI-powered travel planner</summary>
+<br/>
 
-<a href="https://github.com/Vaishnavi-Pandav/Tripwise-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Pandav&repo=Tripwise-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Vaishnavi-Pandav/SkyPulse-Real-Time-Weather-Web-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnavi-Pandav&repo=SkyPulse-Real-Time-Weather-Web-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-</a>
+AI-powered travel planner with itinerary generation, budget optimizer & hotel recommendations.
 
-</div>
+**Tech:** Python · AI
+**Repo:** [github.com/Vaishnavi-Pandav/Tripwise-AI](https://github.com/Vaishnavi-Pandav/Tripwise-AI)
 
-<div align="center">
+</details>
 
-| 🌍 Project | 💡 Description | 🛠️ Tech |
-|:---|:---|:---:|
-| [**Tripwise-AI**](https://github.com/Vaishnavi-Pandav/Tripwise-AI) | AI-powered travel planner with itinerary generation, budget optimizer & hotel recommendations | Python · AI |
-| [**SkyPulse Weather App**](https://github.com/Vaishnavi-Pandav/SkyPulse-Real-Time-Weather-Web-App) | Real-time weather app — search any city, view live temp, humidity & wind speed via API | Python · API |
-| [**ResearchForge**](https://github.com/Vaishnavi-Pandav/ResearchForge) | Research productivity platform built with JavaScript | JavaScript |
+<details>
+<summary>🔹 <strong>SkyPulse Weather App</strong> — Real-time weather web app</summary>
+<br/>
 
-</div>
+Real-time weather app — search any city, view live temperature, humidity & wind speed via API.
+
+**Tech:** Python · API
+**Repo:** [github.com/Vaishnavi-Pandav/SkyPulse-Real-Time-Weather-Web-App](https://github.com/Vaishnavi-Pandav/SkyPulse-Real-Time-Weather-Web-App)
+
+</details>
+
+<details>
+<summary>🔹 <strong>ResearchForge</strong> — Research productivity platform</summary>
+<br/>
+
+Research productivity platform built with JavaScript.
+
+**Tech:** JavaScript
+**Repo:** [github.com/Vaishnavi-Pandav/ResearchForge](https://github.com/Vaishnavi-Pandav/ResearchForge)
+
+</details>
 
 ---
 
@@ -159,36 +192,40 @@ const vaishnavi = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Pandav&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 ## 📜 Certifications
 
 <div align="center">
 
-| 🏅 Certificate | 🏢 Platform | 🔖 Domain |
-|:---|:---:|:---:|
-| **MongoDB Developer** | MongoDB University | Database |
-| **Data Science with Python** | LetsUpgrade | Data Science / ML |
-| **Programming Fundamentals using Python** | Infosys Springboard | Programming |
-| **Gemini for Google Workspace** | Simplilearn | AI & Productivity |
+[![View all badges on Credly](https://img.shields.io/badge/🏅_View_All_Badges_on-Credly-00b4d8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
 
 </div>
 
-<div align="center">
+<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB_Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Infosys](https://img.shields.io/badge/Infosys_Springboard-007CC3?style=for-the-badge&logo=bookstack&logoColor=white)
-![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6B35?style=for-the-badge&logo=google&logoColor=white)
-![LetsUpgrade](https://img.shields.io/badge/LetsUpgrade-6C5CE7?style=for-the-badge&logo=python&logoColor=white)
+**MongoDB University**
 
-</div>
+![MongoDB Developer](https://img.shields.io/badge/MongoDB-Developer-00b4d8?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**LetsUpgrade**
+
+![Data Science with Python](https://img.shields.io/badge/LetsUpgrade-Data_Science_with_Python-0077b6?style=for-the-badge&logo=python&logoColor=white)
+
+**Infosys Springboard**
+
+![Programming Fundamentals](https://img.shields.io/badge/Infosys_Springboard-Programming_Fundamentals_using_Python-00b4d8?style=for-the-badge)
+
+**Simplilearn**
+
+![Gemini for Workspace](https://img.shields.io/badge/Simplilearn-Gemini_for_Google_Workspace-0077b6?style=for-the-badge&logo=google&logoColor=white)
+
+<!--
+  TODO (Vaishnavi): Once you send over the certificate links, I'll wrap each
+  badge above in a clickable link straight to the certificate, e.g.
+  [![...]( ...badge-url... )](https://your-certificate-link.com)
+-->
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
