@@ -213,12 +213,6 @@ Research productivity platform built with JavaScript.
 
 <br/>
 
-**Office Master**
-
-![Power BI Workshop](https://img.shields.io/badge/Office_Master-Power_BI_Workshop-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<br/><br/>
-
 [![View all badges on Credly](https://img.shields.io/badge/🏅_View_All_Badges_on-Credly-ff6b35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
 
 </div>
