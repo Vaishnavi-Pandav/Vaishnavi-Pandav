@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-pandav-45812b31b)
 [![Gmail](https://img.shields.io/badge/Email-Reach_Out-00b4d8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavipanda995@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi--Pandav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi-Pandav)
-[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-00b4d8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
+[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-ff6b35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
 
 <br/>
 
@@ -38,11 +38,6 @@
 ## 👋 About Me
 
 Hey, I'm **Vaishnavi** 👋 — a Full Stack Developer and 2nd-year B.Tech CSE student at **YCCE, Nagpur**, with a Diploma in Computer Engineering (91.65%) backing me up. I love turning ideas into working products, from AI-powered travel planners to real-time weather apps, and I'm just as happy deep in a DSA problem as I am wiring up a new Angular component or a Docker pipeline. Currently leveling up my **DSA, Angular, and DevOps** skills while staying active in open source and clean-code practices. Always building, always learning — let's connect! 🚀
-
-<!--
-  TODO (Vaishnavi): Feel free to tweak the paragraph above to sound more like you,
-  or send me an updated version and I'll swap it in.
--->
 
 ```typescript
 const vaishnavi = {
@@ -105,17 +100,6 @@ const vaishnavi = {
 
 ---
 
-## 🎓 Education
-
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer_Science_&_Engineering-00b4d8?style=for-the-badge)
-![Institute](https://img.shields.io/badge/Institute-YCCE_Nagpur-0077b6?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-2nd_Year_•_2025--2028-00b4d8?style=for-the-badge)
-
-![Diploma](https://img.shields.io/badge/Diploma-Computer_Engineering-0077b6?style=for-the-badge)
-![Score](https://img.shields.io/badge/Score-91.65%25-00b4d8?style=for-the-badge)
-
----
-
 ## 🚀 Featured Projects
 
 <details>
@@ -124,7 +108,7 @@ const vaishnavi = {
 
 AI-powered travel planner with itinerary generation, budget optimizer & hotel recommendations.
 
-**Tech:** Python · AI
+**Tech:** Python · AI  
 **Repo:** [github.com/Vaishnavi-Pandav/Tripwise-AI](https://github.com/Vaishnavi-Pandav/Tripwise-AI)
 
 </details>
@@ -135,7 +119,7 @@ AI-powered travel planner with itinerary generation, budget optimizer & hotel re
 
 Real-time weather app — search any city, view live temperature, humidity & wind speed via API.
 
-**Tech:** Python · API
+**Tech:** Python · API  
 **Repo:** [github.com/Vaishnavi-Pandav/SkyPulse-Real-Time-Weather-Web-App](https://github.com/Vaishnavi-Pandav/SkyPulse-Real-Time-Weather-Web-App)
 
 </details>
@@ -146,7 +130,7 @@ Real-time weather app — search any city, view live temperature, humidity & win
 
 Research productivity platform built with JavaScript.
 
-**Tech:** JavaScript
+**Tech:** JavaScript  
 **Repo:** [github.com/Vaishnavi-Pandav/ResearchForge](https://github.com/Vaishnavi-Pandav/ResearchForge)
 
 </details>
@@ -196,33 +180,48 @@ Research productivity platform built with JavaScript.
 
 <div align="center">
 
-[![View all badges on Credly](https://img.shields.io/badge/🏅_View_All_Badges_on-Credly-00b4d8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
+**MongoDB / GeeksforGeeks**
 
-</div>
+![RAG with MongoDB](https://img.shields.io/badge/MongoDB-RAG_with_MongoDB-00b4d8?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector Search Fundamentals](https://img.shields.io/badge/MongoDB-Vector_Search_Fundamentals-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Core Concepts & Architecture](https://img.shields.io/badge/MongoDB-Core_Concepts_%26_Architecture-00684a?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
 
-**MongoDB University**
+**Oracle**
 
-![MongoDB Developer](https://img.shields.io/badge/MongoDB-Developer-00b4d8?style=for-the-badge&logo=mongodb&logoColor=white)
+![AI Foundations Associate](https://img.shields.io/badge/Oracle-AI_Foundations_Associate-c74634?style=for-the-badge&logo=oracle&logoColor=white)
 
-**LetsUpgrade**
-
-![Data Science with Python](https://img.shields.io/badge/LetsUpgrade-Data_Science_with_Python-0077b6?style=for-the-badge&logo=python&logoColor=white)
-
-**Infosys Springboard**
-
-![Programming Fundamentals](https://img.shields.io/badge/Infosys_Springboard-Programming_Fundamentals_using_Python-00b4d8?style=for-the-badge)
+<br/>
 
 **Simplilearn**
 
-![Gemini for Workspace](https://img.shields.io/badge/Simplilearn-Gemini_for_Google_Workspace-0077b6?style=for-the-badge&logo=google&logoColor=white)
+![Intro to Generative AI Studio](https://img.shields.io/badge/Simplilearn-Introduction_to_Generative_AI_Studio-02aab0?style=for-the-badge&logo=google&logoColor=white)
+![Gemini for Workspace](https://img.shields.io/badge/Simplilearn-Gemini_for_Google_Workspace-00cdac?style=for-the-badge&logo=google&logoColor=white)
 
-<!--
-  TODO (Vaishnavi): Once you send over the certificate links, I'll wrap each
-  badge above in a clickable link straight to the certificate, e.g.
-  [![...]( ...badge-url... )](https://your-certificate-link.com)
--->
+<br/>
+
+**LetsUpgrade**
+
+![Data Science with Python](https://img.shields.io/badge/LetsUpgrade-Data_Science_with_Python-7b2ff7?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+**Infosys Springboard**
+
+![Programming Fundamentals](https://img.shields.io/badge/Infosys_Springboard-Programming_Fundamentals_using_Python-ff6b35?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+**Office Master**
+
+![Power BI Workshop](https://img.shields.io/badge/Office_Master-Power_BI_Workshop-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<br/><br/>
+
+[![View all badges on Credly](https://img.shields.io/badge/🏅_View_All_Badges_on-Credly-ff6b35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vaishnavi-pandav)
+
+</div>
 
 ---
 
